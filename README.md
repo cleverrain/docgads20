@@ -1,5 +1,22 @@
 # docgads20
+
 Documentation GADS 2020
+
+LABS COMPLETED 
+1- http://joxi.ru/KAgOEZ4iKNJbQA
+2- http://joxi.ru/J2bKJ68cVgyWXA
+3- http://joxi.ru/D2PX6K5UJBx8W2
+4- http://joxi.ru/xAeR8LqiXbBqZr
+5- http://joxi.ru/Y2LR86JiEMgDDr
+6- http://joxi.ru/a2XJ74RH4ldWer
+7- http://joxi.ru/nAyden4cwa5eP2
+8- http://joxi.ru/ZrJZEQltnbglpr
+9- http://joxi.ru/KAgOEZ4iKNJaQA
+10- http://joxi.ru/E2pNMz4tG416Or
+11- 
+
+
+LABS COMPLETED USING COMMAND LINES
 
 CONSOLE AND CLOUD SHELL : https://googlepluralsight.qwiklabs.com/focuses/8832016?parent=lti_session
 Create a bucket from the command line in Cloud Console
